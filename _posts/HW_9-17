@@ -1,17 +1,23 @@
-16 Boolean Operators
 
-1. 
-1.
-1.
-1.
-1. 
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
+---
+layout: post
+title: 16 Boolean Operators
+---
+
+1. Tautology (TRUE)
+1. Contradicton (FALSE)
+1. Logical conjunction (AND)
+1. Logical NAND
+1. Logical Disjunction (OR)
+1. Exclusive disjuntion (XOR)
+1. Logical NOR
+1. Converse nonimplication
+1. Negation
+1. Material nonimplication
+1. Negation
+1. Logical biconditional
+1. Projection function
+1. Material implication
+1. Projection function
+1. Converse implication
+
